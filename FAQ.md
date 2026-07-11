@@ -1,7 +1,7 @@
 # FAQ
 
 ## What is binary-converter?
-Convert between binary, octal, decimal, and hexadecimal. CLI with all-direction conversion.
+A CLI tool for binary converter.
 
 ## Dependencies?
 Python stdlib only.

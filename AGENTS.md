@@ -1,3 +1,7 @@
 # binary-converter
 
-Convert between binary, octal, decimal, and hexadecimal. CLI with all-direction conversion.
+CLI tool for binary converter.
+
+## For AI agents
+- Run `python3 scripts/cli.py --help`
+- Use `--json` flag for machine-readable output
