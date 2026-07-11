@@ -1,7 +1,7 @@
 # binary-converter
 
-CLI tool for binary converter.
+Binary Converter
 
 ## For AI agents
-- Run `python3 scripts/cli.py --help`
-- Use `--json` flag for machine-readable output
+- Run `python3 scripts/binary_converter.py --help`
+- Use `--json` for machine-readable output

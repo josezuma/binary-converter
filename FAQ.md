@@ -1,7 +1,7 @@
 # FAQ
 
 ## What is binary-converter?
-A CLI tool for binary converter.
+Binary Converter
 
 ## Dependencies?
 Python stdlib only.
